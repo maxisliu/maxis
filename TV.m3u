@@ -1,0 +1,29 @@
+#EXTM3U 
+#EXTINF:-1 ,53民視新聞台HD
+http://210.61.56.23/hls/ftvtv/index.m3u8
+#EXTINF:-1 ,54三立新聞HD
+http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
+#EXTINF:-1 ,55TVBS新聞台HD
+http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8
+#EXTINF:-1 ,MIAO MI
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+#EXTINF:-1 ,黑莓動畫
+http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:-1 ,唯心電視台
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 ,ANIPLUS
+http://45.126.83.51/dr9445/h/h02/01.m3u8
+#EXTINF:-1 ,NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
+#EXTINF:-1 ,日テレNews24
+http://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1 ,WOWOWOW
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+#EXTINF:-1 ,NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
+#EXTINF:-1 ,WFCTVHD
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
+
+
+
+
